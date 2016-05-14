@@ -1,0 +1,28 @@
+name: friday
+favicon: null
+layout_spectrum: 0.7754304460249841
+typography_spectrum: 0.9012261761818081
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.11254986678250134
+  lightness: 0.5033247035462409
+  saturation: 0.7311258988920599
+  rhythmicContrast: 0.3200086795259267
+purpose: []
