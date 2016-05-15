@@ -6,12 +6,12 @@ color:
     - '#69F50E'
     - '#10D60F'
     - '#1179FE'
-  brandStrength: 0.685825
-  lightness: 0
+  brandStrength: 0.493303
+  lightness: 1
   rhythmicContrast: 0
-  saturation: 0.87779
+  saturation: 0.734375
 cta: {}
-layout_spectrum: 0.891183
+layout_spectrum: 0
 name: friday
 opengraph: {}
 purpose: []
