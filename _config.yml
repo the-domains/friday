@@ -1,14 +1,14 @@
 analytics: {}
 color:
   brandColors:
-    - '#000000'
-    - '#DEDEDE'
-    - '#C76FAC'
-    - '#14CC0C'
-    - '#C71078'
+    - '#050505'
+    - '#EA10D6'
+    - '#69F50E'
+    - '#10D60F'
+    - '#1179FE'
   brandStrength: 1
   lightness: 0
-  rhythmicContrast: 0.243303
+  rhythmicContrast: 0
   saturation: 1
 cta: {}
 layout_spectrum: 0.891183
