@@ -6,10 +6,10 @@ color:
     - '#69F50E'
     - '#10D60F'
     - '#1179FE'
-  brandStrength: 1
+  brandStrength: 0.685825
   lightness: 0
   rhythmicContrast: 0
-  saturation: 1
+  saturation: 0.87779
 cta: {}
 layout_spectrum: 0.891183
 name: friday
